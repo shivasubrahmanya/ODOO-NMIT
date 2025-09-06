@@ -1,1 +1,0 @@
-# SynergySphere Backend Application
