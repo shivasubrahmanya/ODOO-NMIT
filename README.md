@@ -327,20 +327,6 @@ This is a demonstration MVP. For production use, consider:
 - Adding data backup strategies
 
 ---
-## 🏆 Team Details 
- ---------------------------------------------
-| Member Name                 | Passing Year |
-|-----------------------------|--------------|
-| Mance Uthappa		      |  2027        |
-| Amulya U Shet        	      |  2027        |
-| Shivasubrahmanya K C        |  2027        |
-| G Nisha Bangera     	      |  2027        |
-----------------------------------------------
-- **Selected Problem Statement:** "SynergySphere – Advanced Team Collaboration Platform"
-- **Video Link:** https://drive.google.com/drive/folders/1QhOz70M1ScuyNfQ6Qq00bCrj7qJdkCJB?usp=sharing
-
-
----
 ## 📄 License
 
 This project is created for demonstration purposes. Feel free to use as a learning resource or foundation for your own projects.
@@ -351,4 +337,5 @@ This project is created for demonstration purposes. Feel free to use as a learni
 - React team for the powerful frontend library
 - MySQL for reliable data storage
 - All the open-source libraries that made this possible
+
 
